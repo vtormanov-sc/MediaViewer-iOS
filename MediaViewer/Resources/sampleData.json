@@ -1,0 +1,432 @@
+{
+    "xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xml:lang": "en-us",
+    "title": "בחירות 2019",
+    "subtitle": "בחירות 2019",
+    "link": {
+        "rel": "self",
+        "type": "atom",
+        "href": "http://www.example.com/news_feed.atom"
+    },
+    "updated": "",
+    "id": "בחירות 2019",
+    "author": {
+        "name": "בחירות 2019"
+    },
+    "entry": [
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "נתניהו בראיון: \"מאשימים אותי בבגידה? את כולם אני אתבע\"",
+            "summary": "ראש הממשלה סבור כי הרמטכ\"לים לשעבר של 'כחול לבן' יודעים שלא קיבל כסף ממכירת צוללות ומשיב אש: \"אותי אתם מאשימים בבגידה? את מי שנלחם נגד כל העולם כדי למנוע מאיראן את ההסכם שאתם תמכתם בו?\" | הראיון המלא הערב בחדשות 20",
+            "id": "343297",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "ראש הממשלה סבור כי הרמטכ\"לים לשעבר של 'כחול לבן' יודעים שלא קיבל כסף ממכירת צוללות ומשיב אש: \"אותי אתם מאשימים בבגידה? את מי שנלחם נגד כל העולם כדי למנוע מאיראן את ההסכם שאתם תמכתם בו?\" | הראיון המלא הערב בחדשות 20",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.20il.co.il/mobile-post/?id=343297&native=true&shareable=true&showcontext=true&title=%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94%20%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F-1270x714.jpg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%91%D7%A8%D7%90%D7%99%D7%95%D7%9F-1270x714.jpg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "'ישראל ביתנו' עונים לדרעי: \"גאים בשורשים שלנו\"",
+            "summary": "בסרטון בחירות חדש מובאים דבריו של דרעי בעניין העלייה הרוסית, כאשר ברקע מוזכרים חמישה ראשי ממשלה יוצאי ברית המועצות לשעבר:\"דוד בן גוריון, נולד ברוסיה\"",
+            "id": "343128",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "בסרטון בחירות חדש מובאים דבריו של דרעי בעניין העלייה הרוסית, כאשר ברקע מוזכרים חמישה ראשי ממשלה יוצאי ברית המועצות לשעבר:\"דוד בן גוריון, נולד ברוסיה\"",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.20il.co.il/mobile-post/?id=343128&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%99%D7%AA%D7%A0%D7%95-1270x714.png",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%99%D7%AA%D7%A0%D7%95-1270x714.png",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "בל\"ד מצהירים: \"נשנה את דמותה הגזענית של המדינה\"",
+            "summary": "ראש רשימת רע\"ם-בל\"ד מטנאס שחאדה התפאר באירוע בחירות ביפו כי מפלגתו היא \"היחידה שמציגה אלטרנטיבה של ממש ותכנית אופרטיבית לשינוי אופיו האנטי דמוקרטי של השלטון\"",
+            "id": "343127",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "ראש רשימת רע\"ם-בל\"ד מטנאס שחאדה התפאר באירוע בחירות ביפו כי מפלגתו היא \"היחידה שמציגה אלטרנטיבה של ממש ותכנית אופרטיבית לשינוי אופיו האנטי דמוקרטי של השלטון\"",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.20il.co.il/mobile-post/?id=343127&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/222-1270x714.jpeg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/222-1270x714.jpeg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "אמיר איבגי: \"להפסיק לספור ראשים של אשכנזים ומזרחים ברשימות\"",
+            "summary": "דיון סוער בעקבות קמפיין מפלגת 'העבודה' שמאשים את יו\"ר הליכוד ורה\"מ בנימין נתניהו בגזענות. מזכ\"ל העבודה ערן חרמוני: \"המוצא לא יכול להיות חסם\"",
+            "id": "342696",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "דיון סוער בעקבות קמפיין מפלגת 'העבודה' שמאשים את יו\"ר הליכוד ורה\"מ בנימין נתניהו בגזענות. מזכ\"ל העבודה ערן חרמוני: \"המוצא לא יכול להיות חסם\"",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.20il.co.il/mobile-post/?id=342696&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%95%D7%97%D7%A8%D7%99%D7%9D.jpg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%95%D7%97%D7%A8%D7%99%D7%9D.jpg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "חזן: \"מגילת אסתר לא הייתה עוברת היום בג\"ץ\"",
+            "summary": "יו\"ר מפלגת 'צומת', ח\"כ אורן חזן, טוען שהסקרים לא רלוונטיים, זוכה למפגש מפתיע וחושף: \"קיבלתי הצעות עבודה מפתות ובחרתי להמשיך לשרת את הציבור\"",
+            "id": "342580",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "יו\"ר מפלגת 'צומת', ח\"כ אורן חזן, טוען שהסקרים לא רלוונטיים, זוכה למפגש מפתיע וחושף: \"קיבלתי הצעות עבודה מפתות ובחרתי להמשיך לשרת את הציבור\"",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.20il.co.il/mobile-post/?id=342580&native=true&shareable=true&showcontext=true&title=%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%202019"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9A%D7%AA.jpg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%9A%D7%AA.jpg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "title": "The Gentlemen Trailer #1 (2020) | Movieclips Trailers",
+            "summary": "Check out the official The Gentlemen Trailer starring Matthew McConaughey! Let us know what you think in the comments below.",
+            "id": "342696",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "The Gentlemen Trailer #1 (2020) | Movieclips Trailers",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://drive.google.com/uc?authuser=0&id=1cvQh43Im2fQnW2mqGGBEov964wQgBd7q&export=download"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://i.ytimg.com/vi/2B0RpUGss2c/maxresdefault.jpg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://i.ytimg.com/vi/2B0RpUGss2c/maxresdefault.jpg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "Mitt Romney’s Secret Twitter Account Shows Everyone Has a Finsta",
+            "summary": "Social media was going to end shame, but it just ended up killing privacy instead",
+            "id": "343297",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "Mitt Romney’s Secret Twitter Account Shows Everyone Has a Finsta",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onezero.medium.com/mitt-romneys-secret-twitter-account-shows-everyone-has-a-finsta-e7feb3781a15"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://miro.medium.com/max/5939/1*c7hWfVzozLndQ28aK9BYIw.jpeg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://miro.medium.com/max/5939/1*c7hWfVzozLndQ28aK9BYIw.jpeg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "Doom and Bloom: The Growing Millennial Obsession with Houseplants",
+            "summary": "Young adults are turning into plant parents as a manifestation of deep mourning over the planet they are inheriting",
+            "id": "343128",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "https://miro.medium.com/max/2000/1*ERJMNaxr2Ltp4o6BSEc64w.jpeg",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://elemental.medium.com/doom-and-bloom-the-growing-millennial-obsession-with-houseplants-ccaae50f11d3"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://miro.medium.com/max/2000/1*ERJMNaxr2Ltp4o6BSEc64w.jpeg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://www.20il.co.il/wp-content/uploads/2019/03/%D7%91%D7%99%D7%AA%D7%A0%D7%95-1270x714.png",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "link"
+            },
+            "title": "My Relentless Search to Find My Family’s African American ‘Eve’",
+            "summary": "Unearthing her origins required keen detective work and diligence",
+            "id": "343127",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "My Relentless Search to Find My Family’s African American ‘Eve’",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://zora.medium.com/my-relentless-search-to-find-my-familys-african-american-eve-2e5b40aeb0b8"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://miro.medium.com/max/453/0*AVEZUWGXURG-dZyN",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://miro.medium.com/max/453/0*AVEZUWGXURG-dZyN",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        },
+        {
+            "type": {
+                "value": "video"
+            },
+            "title": "DANGER CLOSE Official Trailer (2019) Travis Fimmel, Nicholas Hamilton Movie HD",
+            "summary": "Major Harry Smith (Travis Fimmel) and his company of 108 young and inexperienced Australian and New Zealand soldiers are fighting for their lives in the Battle of Long tan.   With 2,500 battle-hardened Viet Cong soldiers closing in, their ammunition running out and casualties mounting, each man searches for the strength to triumph over an uncertain future with honor, decency and courage.",
+            "id": "342580",
+            "published": "",
+            "updated": "",
+            "content": {
+                "content": "DANGER CLOSE Official Trailer (2019) Travis Fimmel, Nicholas Hamilton Movie HD",
+                "type": "html"
+            },
+            "link": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://drive.google.com/uc?authuser=0&id=1R5-HwWfZjsl-dVERwQ_TlKnp08FxBzQe&export=download"
+            },
+            "media_group": [
+                {
+                    "type": "image",
+                    "media_item": [
+                        {
+                            "src": "https://i.ytimg.com/vi/AyUqZLwOo2Y/maxresdefault.jpg",
+                            "type": "image",
+                            "scale": "small",
+                            "key": "image_base"
+                        },
+                        {
+                            "src": "https://i.ytimg.com/vi/AyUqZLwOo2Y/maxresdefault.jpg",
+                            "type": "image",
+                            "scale": "large",
+                            "key": "image_base_2"
+                        }
+                    ]
+                }
+            ],
+            "author": {
+                "name": ""
+            }
+        }
+    ],
+    "type": {
+        "value": "feed"
+    }
+}
